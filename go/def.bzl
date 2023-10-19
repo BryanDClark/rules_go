@@ -119,7 +119,7 @@ TOOLS_NOGO = [
 
 # Current version or next version to be tagged. Gazelle and other tools may
 # check this to determine compatibility.
-RULES_GO_VERSION = "1.2.0"
+RULES_GO_VERSION = "1.3.0"
 
 go_context = _go_context
 gomock = _gomock
